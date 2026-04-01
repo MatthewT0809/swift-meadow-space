@@ -5,6 +5,7 @@ hugoblox:
     type: person
     tagline: "Unmanned Aerial Vehicle Enthusiast | Cranfield Manchester "
     description: I am currently a Master of Science student in Cranfield University, United Kingdom. I recieved my Bachelor of Aerospace Engineering in Manchester in 2025.
+    organization: Cranfield University
   theme:
     mode: system
     pack: default

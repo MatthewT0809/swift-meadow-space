@@ -1,7 +1,7 @@
 ---
-title: "WeatherNow - Real-Time Weather App"
+title: WeatherNow - Real-Time Weather App
 date: 2024-06-10
-summary: "Beautiful weather application with real-time data, 7-day forecasts, and interactive maps"
+summary: Beautiful weather application with real-time data, 7-day forecasts, and interactive maps
 tags:
   - Frontend
   - React
@@ -22,16 +22,16 @@ links:
     url: https://weathernow-demo.netlify.app
     label: Demo
 featured: false
-status: "Live"
-role: "Solo Developer"
-duration: "3 weeks"
+status: archived
+role: Solo Developer
+duration: 3 weeks
 team_size: 1
 highlights:
-  - "PWA with offline support"
-  - "5000+ monthly active users"
+  - PWA with offline support
+  - 5000+ monthly active users
   - "Lighthouse score: 100"
+draft: true
 ---
-
 A fast, beautiful weather application that provides real-time weather data, forecasts, and interactive maps. Built as a Progressive Web App with offline support.
 
 ## Overview

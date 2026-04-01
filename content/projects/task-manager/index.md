@@ -1,7 +1,7 @@
 ---
-title: "TaskFlow - Project Management Tool"
+title: TaskFlow - Project Management Tool
 date: 2024-09-20
-summary: "Real-time collaborative task management application with drag-and-drop Kanban boards and team features"
+summary: Real-time collaborative task management application with drag-and-drop Kanban boards and team features
 tags:
   - Full-Stack
   - Next.js
@@ -22,16 +22,16 @@ links:
     url: https://taskflow-demo.example.com
     label: Demo
 featured: true
-status: "Live"
-role: "Solo Developer"
-duration: "2 months"
+status: archived
+role: Solo Developer
+duration: 2 months
 team_size: 1
 highlights:
-  - "Real-time collaboration with WebSockets"
-  - "2000+ active users"
-  - "Featured on Product Hunt"
+  - Real-time collaboration with WebSockets
+  - 2000+ active users
+  - Featured on Product Hunt
+draft: true
 ---
-
 A modern, intuitive task management tool built for remote teams. Features real-time collaboration, customizable workflows, and beautiful UI.
 
 ## Overview
